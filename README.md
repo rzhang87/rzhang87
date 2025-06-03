@@ -2,7 +2,7 @@
 - 👀 I’m interested in condensed matter theory, heat transfer, and electromagnetism
 - 🌱 I’m currently learning Green's functions
 - 💞️ I’m looking to collaborate on density functional theory, discrete dipole methods, and near-field microscopy
-- 📫 How to reach me: zihao.zhang@unt.edu
+- 📫 How to reach me: zihao[dot]zhang[at]unt.edu
 - ⚡ Fun fact: The Sun is green
 
 <!---
